@@ -8,7 +8,7 @@ If you do not run Jellyfin as a container, you can follow the [native installati
 
 ## Method 1: mounting the new web interface
 
-1. Download and extract the latest modified web interface from [GitHub actions](https://github.com/ConfusedPolarBear/intro-skipper/actions/workflows/container.yml)
+1. Download and extract the latest modified web interface from [GitHub actions](https://github.com/moxneo/intro-skipper/actions/workflows/container.yml)
     1. Click the most recent action run
     2. In the Artifacts section, click the `jellyfin-web-VERSION+COMMIT.tar.gz` link to download a pre-compiled copy of the web interface. This link will only work if you are signed into GitHub.
 2. Extract the archive somewhere on your server and make note of the full path to the `dist` folder
